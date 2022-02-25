@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Worse and worse: or, A description of their desperate condition who shall presume to take the new Oath or covenant</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67098</idno>
+            <idno type="STC">Wing W3611A</idno>
+            <idno type="STC">ESTC R205419</idno>
+            <idno type="EEBO-CITATION">99825356</idno>
+            <idno type="PROQUEST">99825356</idno>
+            <idno type="VID">29737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1962:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Worse and worse: or, A description of their desperate condition who shall presume to take the new Oath or covenant</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29737:1" rendition="simple:additions"/>
+            <p>WORSE and WORSE: <hi>OR,</hi> A DESCRIPTION OF THEIR DESPERATE Condition who ſhall preſume <hi>to Take the</hi> NEW OATH OR COVENANT.</p>
+            <p>Printed in the Yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_treatise">
+            <pb facs="tcp:29737:2"/>
+            <pb n="1" facs="tcp:29737:2"/>
+            <head>CONCERNING THE OATH AND NEW COVENANT.</head>
+            <div type="part">
+               <head>What is Lawfull Swearing.</head>
+               <p>NOthing is manifeſted in Scripture to be more ſa<g ref="char:EOLhyphen"/>cred then an Oath; which though made to Man and proceeding from Man, yet being made with relation to God is called <hi>The Oath of God, Exod.</hi> 22. as a principall part of Gods Worſhip, <hi>Thou ſhalt worſhip the Lord and ſweare by his name, Deut.</hi> 10. And it is moſt juſtly called a <hi>Worſhip of God</hi> ſince thereby the juſt ſwearer glorifieth God, by profeſſing, Firſt, his Omniſcience, as the only ſearcher of his heart to know whether he ſweares rightly or not. Secondly, his inviolable juſtice to con<g ref="char:EOLhyphen"/>demne the unjuſt ſwearer and Thirdly, his omnipotency &amp; un<g ref="char:EOLhyphen"/>reſiſtable power, to take vengeance upon every Godleſſe viola<g ref="char:EOLhyphen"/>tor of an Oath: and Godleſſe he muſt needs be who obſerveth not all the properties of an Oath which God himſelfe hath pre<g ref="char:EOLhyphen"/>ſcribed; even theſe three recorded. <hi>Ierem,</hi> 4 <hi>Thou ſhalt ſwear in Iuſtice in Iudgement, and in Truth.</hi> Firſt in <hi>Iuſtice,</hi> that the caſe be neceſſary and <hi>juſt,</hi> whereunto I am to be ſworn, Secondly, in <hi>Iudgement,</hi> that know it to be ſuch; becauſe whoſoever doth it doubtfully <hi>condemneth himſelfe. Rom.</hi> 14.5, 22.23. Laſtly, in <hi>Truth,</hi> abhorring from all deceitfulneſſe of ſpeech; either by ver<g ref="char:EOLhyphen"/>ball
+<pb n="2" facs="tcp:29737:3"/>equivocation, or (which is the Art of lying) by any men<g ref="char:EOLhyphen"/>tall reſervation. For although it be the eaſieſt thing in the world to delude Man, yet the Apoſtle will have us know that <hi>God is not mocked, Gal.</hi> 2.7. Thus much of the ſubſtance and circumſtances of Lawfull ſwearing,</p>
+               <p>We are to bring the new Oath to this divine Teſt, to trie it whether it be true coyne or counterfeit.</p>
+               <p>
+                  <hi>I</hi> A. B. <hi>in humility and reverence to the divine Majeſty, declare my hearty ſorrow for my owne ſinnes, and the ſinnes of this Nation, which have deſerved the calamities and judgements that now lye upon it: And my true intention is, by Gods grace, to endeavour the amendment of mine own wayes.]</hi> Well then. Therefore muſt we take heed, leaſt by multiplying our ſinnes by perjuries and falſe ſwearing, we doe provoke God to aggravate and multiply his judgements againſt us; becauſe <hi>Raſh ſwearing is a guiltineſſe, Lev.</hi> 5.4. and a falſe Oath is one of the greateſt profanations of Gods name that can be, as all Scripture ſheweth; and whereof God gave a document even in the new Teſtament, by his viſible judgement upon two perjured wretches at once, as was ſeen be<g ref="char:EOLhyphen"/>fore out of <hi>Act.</hi> 5.</p>
+            </div>
+            <div type="part">
+               <head>The Oath with an Exception.</head>
+               <p>
+                  <hi>And that I doe abhorre and deteſt the ſaid wicked and treache<g ref="char:EOLhyphen"/>rous deſigne lately diſcovered: and that I never gave, nor will gave mine aſſent to the execution thereof, but will according to my power and vocation oppoſe and reſiſt the ſame, and all other of the like na<g ref="char:EOLhyphen"/>ture,]</hi> Which is not yet diſcovered unto me of what nature it is; whether it be not the ſame intended from the King for the <hi>Ar<g ref="char:EOLhyphen"/>ray,</hi> which is exacted by the Parliament for the <hi>Militia.</hi> And how farre the chiefe diſcoverer is to be beleeved, is a matter of great uncertainty; ſeing, after His Impeachment of diverſe, none as yet hath been ſufficiently convicted.</p>
+            </div>
+            <div type="part">
+               <head>The Oath with its exceptions.</head>
+               <p>
+                  <hi>And in caſe any other like deſigne ſhall hereafter come to my Knowledge, I will make ſuch timely diſcovery as I ſhall conceive may beſt conduce to the preventing thereof.]</hi> None can give any
+<pb n="3" facs="tcp:29737:3"/>aſſurance of that which is <hi>Like,</hi> before he know the colour of the enſample, which hitherto is not repreſented, but only in generall termes, and therefore inviſible and unknown to my conſcience.</p>
+            </div>
+            <div type="part">
+               <head>The Oath and the Exception unto it.</head>
+               <p>
+                  <hi>And whereas</hi> I <hi>doe in my Conſcience beleeve, that the Forces raiſed by the two Houſes of</hi> Parliament, <hi>are raiſed and continued for their juſt defence.]</hi> Namely of Parliament; which I cannot doe, if I may believe His Majeſties often, publique, and deep a<g ref="char:EOLhyphen"/>vouchments that he intendeth not the diſſolution of this Parlia<g ref="char:EOLhyphen"/>ment: nor untill my Conſcience be perſwaded againſt Scripture to ſweare I ought not give credit to ſuch expreſſion from ſo Roy<g ref="char:EOLhyphen"/>all a mouth of my Soveraigne, eſpecially engaging his Soveraign<g ref="char:EOLhyphen"/>ty and Royalty for the truth of his Declarations in that behalfe.</p>
+            </div>
+            <div type="part">
+               <head>The intention and reaſon of the Oath from the Preamble of it, and the exceptions againſt it.</head>
+               <p>
+                  <hi>A Popiſh Army hath been raiſed againſt the Proteſtant Religi<g ref="char:EOLhyphen"/>on.]</hi> The intention and Reaſon of an Oath is (as it were) the ſoule thereof, and concerneth the very ſoule of the ſwearer. The Reaſon here pretended is (as the denomination ſheweth) <hi>The Popiſh Army of the King,</hi> now the denomination of every thing is taken either from that which is greater in Quantity, or in Ex<g ref="char:EOLhyphen"/>cellency for worth, and value. But if I ſhould think that the Ar<g ref="char:EOLhyphen"/>my of the Kings is therefore more <hi>excellent</hi> becauſe Popiſh, this were to denominate my ſelfe unworthy in oppoſing them, or if it be meant in reſpect of the Quantity, as if in the Army againſt the Parliament the greater number were Papiſts: this is as diſſo<g ref="char:EOLhyphen"/>nant becauſe the whole Hoaſt at <hi>Oxford,</hi> both Captains and infe<g ref="char:EOLhyphen"/>riour Souldiers (as is divulged) have taken the Oath, for defence of the Proteſtant Religion eſtabliſhed. And ſcarce any one Troop of Papiſts hath been named in all the reſt of the Armies on this ſide <hi>Trent.</hi> As for the Northern parts (if the aſſeverations of ſome may be credited) not two Regiments of ſixteen can be accounted which profeſſe themſelves Popiſh. Therefore with what ju<g ref="char:EOLhyphen"/>ſtice will they have me to ſwear that Army to be Papiſticall, and yet will not permit me to call their Army Anabaptiſticall, which
+<pb n="4" facs="tcp:29737:4"/>yet conſiſts mainly of men of that Eaction? We are now to enter into the Religious conſideration of this Oath.</p>
+            </div>
+            <div type="part">
+               <head>The Oath in reſpect of Religion and the exceptions.</head>
+               <p>
+                  <hi>And I doe in my Conſcience believe, that thoſe Forces are raiſed by the Parliament in defence of the true Proteſtant Religion.]</hi> But what is ſignified by <hi>the true Proteſtant Religion,</hi> we are not cer<g ref="char:EOLhyphen"/>tified by this Oath, and muſt therefore borrow a light from the former oath of Proteſtation, authorized by this Parliament, both in the Preamble and explication thereof by the Houſe of <hi>Com<g ref="char:EOLhyphen"/>mons.</hi> In the Preamble thus, <hi>The true Proteſtant Reformed Reli<g ref="char:EOLhyphen"/>gion eſtabliſhed.</hi> In the Oath it ſelfe thus; <hi>The true Proteſtant Religion expreſſed in the doctrine of the Church of</hi> England, <hi>a<g ref="char:EOLhyphen"/>gainſt all Popiſh innovations.</hi> The Expoſition <hi>thus meaning ſo farre only as it is oppoſite unto Popery and</hi> Popiſh <hi>Innovations, and not to be extended unto any forme of Worſhip.</hi>
+               </p>
+               <div n="1" type="section">
+                  <head>The firſt Exception.</head>
+                  <p>But to take up Armes againſt Soveraignty in pretence of de<g ref="char:EOLhyphen"/>fence of Religion is againſt the very doctrine of the Church of England; as is to be collected out of the 35. and 37. Article of our Church of England, having expreſſe relation unto the Homi<g ref="char:EOLhyphen"/>lies againſt Rebellion.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>The ſecond Exception</head>
+                  <p>Secondly, If I ſwear againſt all Popiſh Innovation in Doctrine; then aſſuredly againſt thoſe of taking up Armes in oppoſition to Princes in pretence of defence of Religion. Which is ſo uncouth an Innovation, as that it was condemned by the Univerſall Primi<g ref="char:EOLhyphen"/>tive Church of Chriſt for above 350. yeares; not only by their doctrine, but alſo their ſuffering for the defence of the Faith; and ſo teſtified by their publike Apologies and glorious Martyrdomes. And that indeed this is a Popiſh doctrine is herein moſt evident, becauſe that the now Schiſmaticall Preachers for defence of this Warre uſe and urge the very ſame objections againſt the Army on the one ſide, and anſwers for confirmation of the others, by the ſame diſtorted expoſitions of Texts and Examples in holy Scriptures, which the Romiſh Sophiſters have done, from poynt
+<pb n="5" facs="tcp:29737:4"/>to point: notwithſtanding they could not be ignorant of the lear<g ref="char:EOLhyphen"/>ned and irrefragable Confutations made by Proteſtant Doctors and publiſhed to the World.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>A third Exception.</head>
+                  <p>Thirdly the expoſition of the Proteſtation, profeſſing by that Oath to oppoſe <hi>only the Popiſh Doctrines and Innovations:</hi> and the continued practice of not only connivence, but even indul<g ref="char:EOLhyphen"/>gence alſo to the <hi>Browniſticall</hi> and <hi>Anabaptiſticall</hi> Faction, (which threaten nothing more then the deſtruction of the now profeſſed Proteſtant Reformed Religion) doe ſeeme to prejudice the inten<g ref="char:EOLhyphen"/>tion of this Oath; and give occaſion to ſuſpect that it may fall out againſt the doctrine as hath done to our Service-booke; which hath been by Sectaries torne in peeces, as it was at <hi>Durham</hi> by Papiſts in their inſurrection in the <hi>North.</hi> And what difference can there be, whether this our Vineyard of Chriſt, the Church of <hi>England,</hi> be <hi>rooted out by the Romiſh Boare,</hi> or <hi>by</hi> other <hi>wild beaſts</hi> of new and naughty Factions? From this part of <hi>defence for Religion,</hi> the Oath returneth as againe to the part Politique.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Oath and the Exceptions againſt it.</head>
+               <p>I. A. B. <hi>In my Conſcience beleeve, that the Forces raiſed by the two Houſes of Parliaments, are raiſed for their juſt Defence, and Liberty of the Subject, againſt the Forces raiſed by the King.]</hi> In this three circumſtances are conſiderable; <hi>Who, againſt whom,</hi> and <hi>What;</hi> ingendring as many doubts and obſtructions unto the Conſciences of them that are required to take this Oath.</p>
+               <div n="1" type="section">
+                  <head>The firſt Exception.</head>
+                  <p>When we would know who it is that taketh up Forces for Warre, they tell us the Parliament, and that by their owne Or<g ref="char:EOLhyphen"/>dinance; whereas Subjects of every Kingdome are taught by the Doctrine of Chriſt and his Apoſtles, that this Authority is proper to him who is Supreme. According to the profeſſion alſo of the Old Teſtament, and examples of their Iudges and Kings; excep<g ref="char:EOLhyphen"/>ting only where God himſelfe did expreſſely interpoſe.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="6" facs="tcp:29737:5"/>
+                  <head>The ſecond Exception.</head>
+                  <p>The ſecond Exception is <hi>Againſt whom<g ref="char:punc">▪</g>
+                     </hi> The Oath nameth not the King, but the Kings Army, as though that were not a<g ref="char:EOLhyphen"/>gainſt the King, which is to ſpeak, <hi>Sibboleth</hi> in ſtead of <hi>Scibbo<g ref="char:EOLhyphen"/>leth.</hi> And what Conſcience will not be jealous when ſevere execution is that the King being in Campe it is both againſt the Power and Perſon of the King, as <hi>Edge Hill</hi> can witneſſe; and the Oath of Proteſtation, ſaying. I <hi>A. B. Proteſt according to my Alleagiance to His Majeſty, His Royall Perſon, Honour, Crown, and Dignity, &amp;c.</hi> when as our learned Schiſmaticks think to dawbe up mens conſciences with their untempered mortar, by diſtinguiſhing between the Naturall and politique Perſon of the King. The moſt of England can now laugh at their fond ſubtil<g ref="char:EOLhyphen"/>ty; knowing that he who killed <hi>Saul,</hi> the then King of <hi>Iſrael,</hi> did thereby kill the ſame King named <hi>Saul.</hi> And the Apoſtle ſhew<g ref="char:EOLhyphen"/>eth that <hi>they who reſiſt the power ſent by the King as Supreame, doe thereby reſiſt the power of the King himſelfe.</hi> Therefore theſe contradictory Oathes cannot well lodge in any ſincere Con<g ref="char:EOLhyphen"/>ſcience.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>The third Exception.</head>
+                  <p>The matter <hi>For what,</hi> the Forces are raiſed expreſſed <hi>to be for Liberty of Subjects againſt Arbitrary Power contrary to Law, &amp;c.</hi> Notwithſtanding the power of Parliament in raiſing theſe Forces is done meerely by an Arbitrary power, and againſt all preſcription of Law; and to the higheſt oppreſſion of the Sub<g ref="char:EOLhyphen"/>jects that hath been even unto the loſſe of both livelihood and lives. Alas our miſery!</p>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>A</hi> fourth Exception.</head>
+                  <p>When as the whole pretence for defence of Religion. Liber<g ref="char:EOLhyphen"/>ty of Subjects, and Priviledges of Parliament, are no other then the King himſelfe doth (I not ſay ſubſc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ibe, but rather ſuper<g ref="char:EOLhyphen"/>ſcribe unto, avouching ſtill that his taking up Armes is for the defence of the true eformed Proteſtant Re<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igion, the Priviled<g ref="char:EOLhyphen"/>ges of Parliament, and againſt all tyrannica<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Arbitrary govern<g ref="char:EOLhyphen"/>ment: muſt I then ſweare that they are juſt Forces raiſed for
+<pb n="7" facs="tcp:29737:5"/>that which is ſo freely offered and yeelded unto them?</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Oath and the Exception againſt it.</head>
+               <p>
+                  <hi>I will likewiſe aſſiſt the Perſons who ſhall take this Oath, in what they ſhall doe in the purſuance thereof.</hi> Theſe words <hi>[What they ſhall doe]</hi> have a great latitude and may leave the Actors unto a liberty or rather licence to urge men to take it by what means ſoever, be it <hi>fas</hi> or <hi>nefas.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A</hi> Corollary to the former</head>
+               <p>It may not be omitted to advertiſe how the Miniſters and Trumpeters, ſounding Alarums for Warre and for the Autho<g ref="char:EOLhyphen"/>rizing of this Oath, doe ſymbolize and jumpe with the Iriſh Pa<g ref="char:EOLhyphen"/>piſts in the ſelfe ſame three reaſons which make for the juſtifying their Rebellion. 1. <hi>It is in the power of our People</hi> (ſay they) <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> create a King, ſo to diſſolve the Royall Government upon oc<g ref="char:EOLhyphen"/>caſions ſeeming good to themſelves.</hi> The ſecond is <hi>Salon populi, the peoples generall and neceſſary good,</hi> as they pretend. Thirdly, <hi>the eſtabliſhing of their owne profeſſion of Religion.</hi> Theſe ſo many exceptions may prove ſo many Corroſives to the heart of the Swearer; whether he take it with a conſcience wilfull or doubt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:29737:6"/>
+               <head>Three Quaeres or Caſes of Conſcience, <hi>touching the late Oath.</hi>
+               </head>
+               <p>
+                  <label>1. Q.</label> How it conſiſts with the three-fold Condition of an <hi>Oath</hi> in generall,
+<list>
+                     <item>1. of <hi>Truth,</hi>
+                     </item>
+                     <item>2. <hi>Iudgements,</hi>
+                     </item>
+                     <item>3. <hi>Righte<g ref="char:EOLhyphen"/>ouſneſſe?</hi>
+                     </item>
+                  </list> Ier. 4.2.</p>
+               <p>
+                  <label>2. Q.</label> How with the three-fold <hi>Oath</hi> taken in particular:
+<list>
+                     <item>1 <hi>Allegiance,</hi>
+                     </item>
+                     <item>2. <hi>Supremacy,</hi> and the</item>
+                     <item>3. <hi>Proteſtation?</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <label>3. q.</label> How with it's own,
+<list>
+                     <item>1. <hi>Introduction,</hi>
+                     </item>
+                     <item>2. <hi>Limitations,</hi> and</item>
+                     <item>3. <hi>Expreſſions</hi>
+                     </item>
+                  </list> in ſpecialls? <hi>and a three-fold cord is not eaſily broken,</hi> Eccleſ. 4.12.</p>
+               <p>
+                  <list>
+                     <item>
+                        <hi>For the firſt</hi> quaere <hi>and firſt Condition of</hi> Truth,
+<list>
+                           <item>1. Which Excludes, <hi>Falſhood, Doublings, Fictions,</hi> mental <hi>Evaſions, Equivocations, Reſervations, &amp;c.</hi> and requires ſimpli<g ref="char:EOLhyphen"/>city, and ſevere correſpondence to the ſenſe and purpoſe of the Impoſer, <hi>(i. e. liquido jur are.)</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>For the Second, of</hi> Judgement,
+<list>
+                           <item>2. Which requires it ſhould be done ſoberly, adviſedly, diſ<g ref="char:EOLhyphen"/>creetly, reverendly, and in the feare of God. And not unadviſed<g ref="char:EOLhyphen"/>ly, lightly, or wantonly, to ſatisfie mens luſts and appetites like brute beaſts that have no underſtanding.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>For the third, of</hi> Righteouſneſſe.
+<list>
+                           <item>3. That it be not to the hurt and prejudice of my neighbour, for any unjuſt or unlawfull deſigne.</item>
+                        </list>
+                     </item>
+                  </list> So,</p>
+               <p>He that taketh it in his own private ſenſe or reſervations, (and not agreeable to the plain ſenſe and purpoſe of the Impo<g ref="char:EOLhyphen"/>ſer of the <hi>Oath,</hi>) offends againſt the firſt Condition.</p>
+               <p>He that takes it raſhly or timorouſly for fear or favour of men; offends againſt the ſecond.</p>
+               <p>He that takes it out of miſguided-Zeal, or ſpirit of revenge upon his brother, offends againſt the third.</p>
+               <pb n="9" facs="tcp:29737:6"/>
+               <p> For theſe and the like cauſes S. <hi>Auſtin</hi> concludes, that <hi>Falſa <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eſt exitioſa, vera iuratio periculoſa, nulla iuratio ſecura.</hi>
+                  <note place="margin">D. Auguſt: Ser: <hi>28.</hi> de verbis Apoſt.</note> Falſe ſwearing is pernicious, true ſwearing is dangerous, not at all ſwearing is ſecure.</p>
+               <p>Now for the ſecond <hi>Q.</hi> How can it conſiſt with a three<g ref="char:EOLhyphen"/>fold <hi>Oath</hi> taken in particular? and</p>
+               <p>Firſt, how with the <hi>Oath</hi> of <hi>Supremacy?</hi>
+               </p>
+               <p>For, if he be Supream over all perſons, in all Cauſes <hi>Eccleſi<g ref="char:EOLhyphen"/>aſticall</hi> and <hi>Temporall,</hi> how can I ſwear to ſubject him, or (which is all one) his Commiſſioners,<note place="margin">1. <hi>Pet.</hi> 2.14.</note> and <hi>Power ſent by him</hi> to any per<g ref="char:EOLhyphen"/>ſons in any cauſe whatſoever?</p>
+               <p>
+                  <label>Ob. 1.</label> But you will ſay the occaſion of that <hi>Oath</hi> was only to exclude the Popes <hi>Supremacy.</hi>
+               </p>
+               <p>
+                  <label>Sol.</label> True, though that were the chiefe occaſion, yet it was not only the intention: but was purpoſely made to involve and ſhut up all his Subjects under the ſame Conditions of unreſiſting Obedience.</p>
+               <p>
+                  <label>Ob. 2.</label> But the <hi>Oath</hi> only binds ſo long as the King obſerves the Condition of his own <hi>Oath</hi> for the true Religion. <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <label>Sol.</label> A lawfull <hi>Oath</hi> taken is of good force to bind us to O<g ref="char:EOLhyphen"/>bedience even to a bad King; (much more to an eminently good Pious and Religious King) as appeares by that of <hi>Solomon, Ec<g ref="char:EOLhyphen"/>cleſ<g ref="char:punc">▪</g>
+                  </hi> 8.2. <hi>I councell thee to keepe the Kings Commandment, and that in regard of the Oath of God:</hi> And by example of <hi>Zedechiahs</hi> perjury and breaking of his <hi>Oath</hi> made to a Tyrant,<note place="margin">
+                     <hi>Ezech:</hi> 17. v. 15.20.</note> an Enemy of the Church. <hi>Shall he proſper</hi> (ſaith God) <hi>ſhall he eſcape that doth ſuch things? Or ſhall he break his Covenant, and be delivered?</hi> As <hi>I live</hi> (ſaith the Lord) <hi>Surely MY Oath which he hath deſpi<g ref="char:EOLhyphen"/>ſed, and MY Covenant that he hath broken, even it will</hi> I <hi>recom<g ref="char:EOLhyphen"/>pence upon his own head.</hi> In like manner <hi>Saul</hi> his bloody houſe was viſited becauſe <hi>he ſought to ſlay the</hi> Gibeonites (aliens to the Common-wealth of <hi>Iſrael</hi>) <hi>though in</hi> Zeal <hi>toto the Children of</hi> Iſrael <hi>and</hi> Juda. Hitherto of the firſt <hi>Oath,</hi>
+                  <note place="margin">2. <hi>Sam.</hi> 21.1.2.</note> which is of <hi>Supre<g ref="char:EOLhyphen"/>macy.</hi>
+               </p>
+               <p>
+                  <hi>The ſecond followes of</hi> Allegiance,</p>
+               <p>
+                  <label>O.</label> How can it conſiſt with it? For I am bound by it to de<g ref="char:EOLhyphen"/>fend
+<pb n="10" facs="tcp:29737:7"/>
+                  <hi>the Kings Perſon, to the uttermoſt of my power; and ſpee<g ref="char:EOLhyphen"/>dily to diſcover and reſiſt all Treaſons and, Conſpiracies againſt his Perſon, Crown, or Dignity;</hi> All which ſeeme to be endangered by taking or partaking with Armes raiſed againſt him or the Po<g ref="char:EOLhyphen"/>wer, Army, or Life-guard commanded by Him for His defence, and <hi>that no perſon whatſoever, hath power to abſolve mee of this Oath.</hi>
+               </p>
+               <p>And for—<hi>The third Oath. Of the late Proteſtation.</hi>
+               </p>
+               <p>How can it conſiſt? For, <hi>I Proteſt, Vow, and promiſe to main<g ref="char:EOLhyphen"/>taine the</hi> Proteſtant Religion <note place="margin">See the pre<g ref="char:EOLhyphen"/>amble of the Houſe of Com<g ref="char:EOLhyphen"/>mons to the Proteſt:</note> 
+                  <hi>expreſſed in the Doctrine of the Church of <hi>England,</hi> againſt all Popery and Popiſh Innovations.</hi>
+               </p>
+               <p>But this Aſſertion of the new <hi>Oath</hi> that <hi>(in my Conſcience I doe beleeve that the Forces raiſed by the two Houſes of Parliament, are raiſed and continued for their <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſt defence, and for the defence of the true Proteſtant Religion)</hi> ſeems to contradict the late Proteſtation; For, firſt it is againſt the eſtabliſhed Doctrine of the Church of <hi>England;</hi> which is in the 37. Article which ſaith that <hi>The Kings Majeſty hath the</hi> Chiefe <hi>power in this, Realme of</hi> England <hi>unto whom the</hi> Chiefe <hi>government of.</hi> All <hi>Eſtates, whe<g ref="char:EOLhyphen"/>ther Eccleſiaſticall or Civill, in</hi> All <hi>cauſes, doth appertaine—To rule</hi> All <hi>Eſtates and degrees committed to</hi> Their <hi>charge; and to reſtraine with the ſword;</hi> None of which can the King doe, if the Sword or <hi>Militia</hi> be taken from Him. <hi>Item.</hi> That a man may, take up Armes or take an <hi>Oath</hi> when <hi>the Magiſtrate</hi> (i. e. <hi>Su<g ref="char:EOLhyphen"/>pream Power</hi>) commandeth; implying that no man ought either, to take <hi>Oath</hi> or bear Armes without the Injunction of <hi>the Ma<g ref="char:EOLhyphen"/>giſtrate.</hi> Item, <hi>Article</hi> 35. <hi>that the two Bookes of Homilies, (the Homilies againſt Rebellion amongſt the reſt) containe a Godly and wholſome Doctrine, to be read in Churches by the Miniſters</hi> (that is Preachers, not only Reading Miniſters) <hi>dilligently &amp; diſtinctly; that they may be underſtood by the People as the Doctrine of the Church of</hi> England: <hi>For though there may be many Doctrins and many Churches in</hi> England <hi>yet there is but one Doctrine &amp; one church of</hi> England, <hi>contained in the</hi> 39. <hi>Articles, and</hi> Common-Prayer Book <hi>confirmed by Act of Parliament.</hi> Thus far of the firſt particular of the Proteſtation. The ſecond is, how it can conſiſt with that part of the Proteſtation, which binds me to <hi>oppoſe all Popiſh Innovationis,
+<pb n="11" facs="tcp:29737:7"/>&amp;c.</hi> for <hi>to take, up Armes</hi> in caſe of Religion againſt a <hi>Supream Power</hi> is a plaine Popiſh Innovation, and a new Invention ought and maintained only in this laſt Age. And thirdly, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow can it conſiſt with the laſt particular; Wherein I <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and proteſt to maintains with my Life Power and Eſtate (ac<g ref="char:EOLhyphen"/>cording to the duty of mine Allegiance His</hi> Majeſties <hi>Perſon, Ho<g ref="char:EOLhyphen"/>nour and Eſtate,</hi> Now the Quaere is how I maintaine firſt His <hi>Perſon</hi> with my life, Power, and Eſtate, if I ſweare to aſſiſt an Army of men whom He hath oft Declared (and are ſo accoun<g ref="char:EOLhyphen"/>ted by many pious and Iudicious men) to be utter Enemies to His Perſon; Honour and Eſtate; Or, ſecondly, how can I be ſaid to maintaine His Honour, when by this Oath I profeſſe (expreſſely contrary to the word of God, <hi>Eccleſ.</hi> 10.20. <hi>Exod.</hi> 22.28, (not only in mine heart to curſe and accuſe Him, but openly with my mouth to revile and blaſpheme Him; and in effect, ſay in mine heart, (which is <hi>Nefandum horrendum</hi> and farre from the thought of an obedient Sonne, that honoureth his Father) He is an utter Enemy of Gods true Religion, a violator of all ſacred Vowes, Oathes and Covenants. And can't yet be ſaid to main<g ref="char:EOLhyphen"/>taine His Honour? Can I be thus preſumptuous to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udge Him? Am I not afraid to ſpeake evill or Dignities, &amp; yet maintaine the kings Honour, or the Chriſtian Proteſtant Religion?<note place="margin">2 <hi>Pet.</hi> 2.10.11.</note> Did <hi>Cham</hi> honour his Father when he diſcovered his reall nakedneſſe? and do they honour their Father that impute a lying and falſe naked<g ref="char:EOLhyphen"/>neſſe, and cover his reall Virtues &amp; Glory by caſting on foule and fained aſperſions? A Sonne honoureth his Father and a Servant his Maſter; <hi>If he be a Father where is his honour?</hi>
+                  <note place="margin">
+                     <hi>Malach.</hi> 1.6.8,</note> 
+                  <hi>if he be our M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſter where is his feare? if this be the honour and feare, goe and offer it <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thy Father, to thy Maſter, and ſee if they will take it at thy hands?</hi>
+               </p>
+               <p>Nor will the after expoſition ſerve to heale this breach: by ſaying <hi>it was not to be extended to the maintenance of any diſci<g ref="char:EOLhyphen"/>pline or government of the Church of England.</hi> For, firſt all the or<g ref="char:EOLhyphen"/>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ined Miniſters of <hi>England</hi> have ſubſcribed and ſworn to the Kings Supremacy, and all the doctrine of the Church of <hi>England;</hi> and therefore they cannot be abſolved from this lawfull <hi>Oath</hi> by any power whatſoever.</p>
+               <p>And Secondly, though it ſhould not be extended to Church-Government, yet it will reach to the Civill Supremacy and
+<pb n="12" facs="tcp:29737:8"/>chiefe power of the Sword,<note place="margin">See the a<g ref="char:EOLhyphen"/>boveſaid <hi>Article 37.</hi>
+                  </note> which the expreſſe doctrine of the Church of England avouceth to be only in the King.</p>
+               <p>Or thirdly, how can I be then ſaid to maintain his <hi>Estate,</hi> when I take part with them that with-hold and with-draw it from him? or that put him into ſuch an Eſtate and condition as does exhauſt and conſume His Eſtate, by maintaining an Army to guard and protect His own Perſon and His Loyall Subjects? And hitherto of the two firſt <hi>Queries</hi> concerning the three Oathes of <hi>Allegiance, Supremacy,</hi> and <hi>Proteſtation;</hi> now follow<g ref="char:EOLhyphen"/>eth the third <hi>Queere,</hi> how this late Oath can conſiſt with its own Introduction limitations and expreſſions.</p>
+               <p>Firſt, How with the Introduction, <hi>viz. That there hath been and now is in this Kingdom a</hi> POPISH AND TRAITEROVS PLOT <hi>for the ſubverſion of the true Religion, &amp;c.</hi> Firſt how can I believe this, and believe the Kings Proteſtation to the contra<g ref="char:EOLhyphen"/>ry? And Secondly how can I honour the King and not believe Him, And thirdly, how can I call it a Popiſh Army when the more principall part muſt give the denomination? when it is confeſt and manifeſt, that the better part by much, and the grea<g ref="char:EOLhyphen"/>ter by farre are Proteſtants, and ſworn contrary to all popiſh plots. Secondly, In <hi>declaring my ſorrow for my ſinnes paſt, and purpoſe to amend, &amp;c.</hi> How can it conſiſt, if in this very Oath I commit greater ſinnes of Pride, Slander, Envy, and all Unchari<g ref="char:EOLhyphen"/>tableneſſe, Blaſphemy, Perjury, and Diſobedience? And if the Repentance it ſelfe be ſuch a ſinne, it is a Repentance to be re<g ref="char:EOLhyphen"/>pented of.</p>
+               <p>Againe, how can it conſiſt with the Limitation, <hi>i. e.</hi> In <hi>Order to the ſecuring the true Proteſtant Religion?</hi> when as it is cleer by what is above ſaid, <hi>It is directly contrary to Our Proteſtant Religion, or the Doctrine of Our Church</hi> (<hi>though there may be many other ſtrange doctrines in our Church</hi> (which evidently aſ<g ref="char:EOLhyphen"/>ſerts the King to be ſupreame <hi>over</hi> ALL <hi>Perſons, in</hi> ALL <hi>Cau<g ref="char:EOLhyphen"/>ſes;</hi> and plainly denies any power of Armes to be uſed by Sub<g ref="char:EOLhyphen"/>jects againſt their King, under colour of Religion. Now what our Lord and Maſter ſaid to one deſiring him to divide the inhe<g ref="char:EOLhyphen"/>ritance,<note place="margin">See Luke <hi>12.</hi>
+                  </note> We his ſervants may anſwer in the like caſe, <hi>Man, who hath made me a divider or Iudge over you?</hi> If any ſpeak <hi>to</hi> us to take up Armes to vindicate the preſent cauſe as juſt, in raiſing
+<pb n="13" facs="tcp:29737:8"/>Forces againſt the King, Muſt anſwer and aske, <hi>Who, hath, made <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Iudges over our Soveraigne? Or dividers of the Kings Inheri<g ref="char:EOLhyphen"/>tance betwixt Him and His Subjects?</hi> Eſpecially when he hath proteſted ſo often by all that is ſacred, and engaged all that is deare to Him, that he will maintain in and defend the true Prote<g ref="char:EOLhyphen"/>ſtant Religion, and Liberty of the Subject &amp;c. Am I not rather ſilenced by that of <hi>Solomon My Sonne, feare God and the King;</hi>
+                  <note place="margin">
+                     <hi>See Prov.</hi> 24.21.</note> 
+                  <hi>and meedle not with them that are given to change, Prov.</hi> 24.21. Or are we not rather diſarmed, by that of our Saviour, <hi>put up thy ſword, for he that takes the ſword will periſh by the ſword.</hi>
+               </p>
+               <p>Thirdly and laſtly, the Expreſſion; which is, <hi>To maintain and aſſiſt all perſons in whatſoever they ſhall doe in purſuance of the ſame.</hi> Which is of a vaſt and large extent; &amp; ſeems to maintain,
+<list>
+                     <item>1. Thoſe that hazard and oppoſe the Kings Perſon, Honour and Eſtate,</item>
+                     <item>2. Thoſe that go contrary to the doctrine of the Church of <hi>England</hi> (in taking up Armes under colour of Religion.)</item>
+                     <item>3. And that <hi>in all which they ſhall doe on purſuance of the ſame.</hi>
+                     </item>
+                  </list> What if I ſhould be required to help to kill mine own Father, Naturall, Civill, or Spirtuall, if the King or my Parents or any Miniſters ſhall oppoſe their Forces by word or deed, it ſeemes I may and ought by virtue of theſe words <hi>[In purſuance of the ſame]</hi> aſſiſt any one that ſhall purſue them or any of them unto death. And we have cauſe to feare it will be ſo extended, when it is taken up or offered by ſome for good doctrine, that every man ought (as the Levites commanded by <hi>Moſes</hi>) <hi>goe out and ſlay every man his Brother,</hi>
+                  <note place="margin">
+                     <hi>See Exod.</hi> 32.27<g ref="char:punc">▪</g>29.</note> 
+                  <hi>and conſecrate your ſelves every man upon his Sonne or upon his Brother, Companion, or his Neighbour, if he judge him an Idolator, Enimy of God;</hi> (which is not very hard for malice to doe.) And that the Levites by that ſevere and bloody execution, did expiate their ſlaine of their Fathers tranſgreſſion. But farre be from that <hi>kakozelia,</hi> to partake of the tranſgreſſion of <hi>Simeon</hi> and <hi>Levi</hi> brethren in iniquity; (ex<g ref="char:EOLhyphen"/>cept he had the ſame infallible Commiſſion, and the ſame idola<g ref="char:EOLhyphen"/>try to oppoſe) under an hypocriticall pretext of circúmciſion, and furious zeale of Religious Reformation, did really affect not the converſion but the deſtruction; not the Circumciſion but exciſion of the <hi>Shechemites.</hi>
+               </p>
+               <pb n="14" facs="tcp:29737:9"/>
+               <p> But pray we rather and conclude with the true <hi>Iſrael</hi> of God, <hi>Oh my ſoule, come not thou into their ſecret, into their aſſem<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> mine honour be not then united.</hi>
+                  <note place="margin">Gen. 49.56.57.</note> 
+                  <hi>For in their anger they ſlew a man and</hi> (ſaving their Perſons) <hi>curſed be their anger for it was fierce, and their wrath for it is Cruell; <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them in</hi> Jacob and <hi>ſcatter them in</hi> Iſraell. Amen</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29737:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
